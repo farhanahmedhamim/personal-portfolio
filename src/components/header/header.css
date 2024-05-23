@@ -1,0 +1,120 @@
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: #fff;
+}
+
+.logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logos a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logos a img {
+    width: 25px;
+    height: auto;
+    margin-right: 10px;
+}
+
+header.active {
+    box-shadow: 0px 0px 15px 0px #dbdbdb;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 1rem;
+}
+
+.nav__logo {
+    font-size: 18px;
+}
+
+
+.nav__list {
+    display: flex;
+    column-gap: 2rem;
+}
+
+.nav__link {
+    font-size: 16px;
+    font-weight: 600;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.toggle-button {
+    display: none;
+}
+
+
+
+
+.mobile__menu {
+    display: none;
+}
+
+
+
+
+
+/* For SemiMedium  Devices */
+@media screen and (max-width:768px) {
+    .toggle-button {
+        display: block;
+        cursor: pointer;
+        z-index: 1000;
+    }
+
+    .nav__menu {
+        display: none;
+    }
+
+    .mobile__menu {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        background: #000000c9;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: .4s;
+    }
+
+    .mobilenav__list {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .mobilenav__item {
+        color: #fff;
+        margin: 20px 0px;
+    }
+
+}
+
+
+
+/* For Medium  Devices */
+@media screen and (max-width:576px) {}
+
+
+
+/* For Small  Devices */
+@media screen and (max-width:350px) {}
