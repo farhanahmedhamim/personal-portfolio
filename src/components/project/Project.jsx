@@ -27,7 +27,7 @@ const Project = () => {
         {
             img: pricetable,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "Tailwind"],
             code: "https://github.com/farhanahmedhamim/price-table",
             demo: "https://price-table-zeta.vercel.app/",
@@ -35,7 +35,7 @@ const Project = () => {
         {
             img: education,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "css"],
             code: "https://github.com/farhanahmedhamim/education-ensure",
             demo: "https://education-ensure.vercel.app/",
@@ -43,7 +43,7 @@ const Project = () => {
         {
             img: car,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["next", "css"],
             code: "https://github.com/farhanahmedhamim/nexttry",
             demo: "https://prismatic-faloodeh-c5de4c.netlify.app/",
@@ -51,7 +51,7 @@ const Project = () => {
         {
             img: land,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["HTML", "css", "JavaScript"],
             code: "https://github.com/farhanahmedhamim/foreal",
             demo: "https://farhanahmedhamim.github.io/foreal/",
@@ -59,7 +59,7 @@ const Project = () => {
         {
             img: restora,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["HTML", "css", "JavaScript"],
             code: "https://github.com/farhanahmedhamim/rest",
             demo: "https://farhanahmedhamim.github.io/rest/",
@@ -67,7 +67,7 @@ const Project = () => {
         {
             img: ghost,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "css"],
             code: "https://github.com/farhanahmedhamim/react_ghost",
             demo: "https://farhanahmedhamim.github.io/react_ghost/",
@@ -75,7 +75,7 @@ const Project = () => {
         {
             img: watch,
             title: "landing page",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "css"],
             code: "https://github.com/farhanahmedhamim/react_watch",
             demo: "https://farhanahmedhamim.github.io/react_watch/",
@@ -83,7 +83,7 @@ const Project = () => {
         {
             img: mordern,
             title: "LANDING PAGE",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "Tailwind"],
             code: "https://github.com/farhanahmedhamim/mordern-reacr",
             demo: "https://farhanahmedhamim.github.io/mordern-reacr/",
@@ -91,7 +91,7 @@ const Project = () => {
         {
             img: nft,
             title: "NFT LANDING PAGE",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "css"],
             code: "https://github.com/farhanahmedhamim/react-nft",
             demo: "https://farhanahmedhamim.github.io/react-nft/",
@@ -99,7 +99,7 @@ const Project = () => {
         {
             img: facebook,
             title: "FACEBOOK PAGE",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["HTML", "css", "JavaScript"],
             code: "https://github.com/farhanahmedhamim/facebook",
             demo: "https://farhanahmedhamim.github.io/facebook/",
@@ -107,7 +107,7 @@ const Project = () => {
         {
             img: dashboard,
             title: "REACT DASHBOARD",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "css"],
             code: "https://github.com/farhanahmedhamim/react-dashboard",
             demo: "https://loquacious-cucurucho-ff69ce.netlify.app/",
@@ -115,7 +115,7 @@ const Project = () => {
         {
             img: ecommerceDashboard,
             title: "E-COMMERCE DASHBOARD",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "sass"],
             code: "https://github.com/farhanahmedhamim/ecommerce-dashboard",
             demo: "https://ecommerce-dashboard-rust-iota.vercel.app/",
@@ -123,7 +123,7 @@ const Project = () => {
         {
             img: realestate,
             title: "REAL ESTATE WEBSITE",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "Tailwind"],
             code: "https://github.com/farhanahmedhamim/real-estate",
             demo: "https://aesthetic-taffy-c8c864.netlify.app/",
@@ -131,7 +131,7 @@ const Project = () => {
         {
             img: ecommerce,
             title: "E-COMMERCE WEBSITE",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "Tailwind"],
             code: "https://github.com/farhanahmedhamim/ecommerce-website",
             demo: "https://idyllic-donut-a10873.netlify.app/",
@@ -139,7 +139,7 @@ const Project = () => {
         {
             img: jobFinder,
             title: "JOB FINDER APP",
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam numquam ullam deleniti, sint, nemo quibusdam, facilis explicabo consectetur atque quaerat ipsam voluptatum asperiores aspernatur architecto voluptatibus distinctio magni vel ad?",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["React", "Tailwind"],
             code: "https://github.com/farhanahmedhamim/job-finder",
             demo: "https://job-finder-eta.vercel.app/",
