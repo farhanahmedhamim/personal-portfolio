@@ -3,12 +3,15 @@ import './footer.css'; // Importing styles
 import { Link } from 'react-router-dom'; // Importing Link from react-router-dom for routing
 
 const Footer = () => {
+
+    const year = new Date().getFullYear();
+
     return (
         <footer>
             <div className="footer__container">
                 <div className="footer__content">
                     {/* Copyright information */}
-                    <p>© 2024 Portfolio website by Farhan. All rights reserved.</p>
+                    <p>© {year} Portfolio website by Farhan. All rights reserved.</p>
                     {/* Social media links */}
                     <div className="links">
                         <Link to="https://www.linkedin.com/"> {/* Add correct URL */}

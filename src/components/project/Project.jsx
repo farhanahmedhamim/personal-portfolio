@@ -20,6 +20,7 @@ import ecommerceDashboard from '../../assets/Screenshot (106).png';
 import jobFinder from '../../assets/Screenshot (107).png';
 import pricetable from '../../assets/Screenshot (108).png';
 import education from '../../assets/Screenshot (110).png';
+import doctor from '../../assets/Screenshot (111).png';
 
 const Project = () => {
 
@@ -31,6 +32,14 @@ const Project = () => {
             tool: ["React", "Tailwind"],
             code: "https://github.com/farhanahmedhamim/price-table",
             demo: "https://price-table-zeta.vercel.app/",
+        },
+        {
+            img: doctor,
+            title: "doctor appointment",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency.Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
+            tool: ["React", "Tailwind"],
+            code: "https://github.com/farhanahmedhamim/-doctor-appointment",
+            demo: "https://doctor-appointment-mauve.vercel.app/",
         },
         {
             img: education,
