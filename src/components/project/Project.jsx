@@ -21,10 +21,19 @@ import jobFinder from '../../assets/Screenshot (107).png';
 import pricetable from '../../assets/Screenshot (108).png';
 import education from '../../assets/Screenshot (110).png';
 import doctor from '../../assets/Screenshot (111).png';
+import Ebook from '../../assets/preview.png';
 
 const Project = () => {
 
     const data = [
+        {
+            img: Ebook,
+            title: "landing page",
+            desc: "High-quality code is essential for maintainability, scalability, and efficiency. Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
+            tool: ["HTML", "css", "JavaScript"],
+            code: "https://github.com/farhanahmedhamim/e-book",
+            demo: "https://farhanahmedhamim.github.io/e-book/",
+        },
         {
             img: pricetable,
             title: "landing page",
