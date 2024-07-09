@@ -119,8 +119,8 @@ const Project = () => {
             title: "FACEBOOK PAGE",
             desc: "High-quality code is essential for maintainability, scalability, and efficiency. Achieving high code quality is an ongoing process that involves following best practices, using the right tools, and continuously improving. By focusing on readability, modularity, testing, and adherence to design principles, developers can create code that is robust, efficient, and easy to maintain.",
             tool: ["HTML", "css", "JavaScript"],
-            code: "https://github.com/farhanahmedhamim/facebook",
-            demo: "https://farhanahmedhamim.github.io/facebook/",
+            code: "https://github.com/farhanahmedhamim/social-media",
+            demo: "https://farhanahmedhamim.github.io/social-media/",
         },
         {
             img: dashboard,
